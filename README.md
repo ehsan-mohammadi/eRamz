@@ -2,6 +2,9 @@
 
 >Protect files with DES encryption
 
+[![Build Status](https://travis-ci.org/ehsan-mohammadi/eRamz.svg?branch=master)](https://travis-ci.org/ehsan-mohammadi/eRamz)
+[![Licesne](https://img.shields.io/github/license/ehsan-mohammadi/eRamz.svg?branch=master)](https://travis-ci.org/ehsan-mohammadi/eRamz)
+
 <img src="https://github.com/ehsan-mohammadi/eRamz/blob/master/Images/eRamzLogo.png" width="120" height="120" />
 
 eRamz is an open source and free console application to encrypt your files. It's based on DES encryption.
